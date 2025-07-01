@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
+<img width="100%" style="pointer-events: none;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
 
 <div align="center">
   <samp>
@@ -23,13 +23,6 @@
 </div>
 <br>
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
   <br>
 
 <div align="center">
@@ -102,8 +95,6 @@
 </div>
 
 ##
-
-</details>
 
 <br>
 <br>
